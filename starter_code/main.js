@@ -87,8 +87,8 @@ var reverseString = function(string){
 
 
 // Question 7
-function findLongestWord () {
-  
+function findLongestWord(wordArray) {
+
 }
 
 
